@@ -1,7 +1,31 @@
 {
 	"store_0001": {
-		"creatorid": "ZealotDKD",
+		"creatorid": "Zealot",
 		"storeName": "ZealotDKD",
+		"assets": {
+			"name1": "imagename1",
+			"name2": "imagename2"
+		},
+		"images": {
+			"imagename1": "url1",
+			"imagename2": "url2",
+			"imagename3": "url3",
+			"imagename4": "url4"
+		},
+		"tags": [
+			"quest",
+			"fbt",
+			"adult",
+			"a",
+			"cb4506",
+			"halloween",
+			"is a cool dude",
+			"sergal"
+		]
+	},
+	"store_0002": {
+		"creatorid": "MajorVictory",
+		"storeName": "VR Creator's Society",
 		"assets": {
 			"name1": "imagename1",
 			"name2": "imagename2"
