@@ -1,0 +1,59 @@
+
+// Object format templates
+
+{
+	"storeid": { // Stores
+		"creatorid": "",
+		"name": "",
+		"assets": [
+			"assetid1",
+			"assetid2"
+		],
+		"images": {
+			"imagename1": "url1",
+			"imagename2": "url2",
+			"imagename3": "url3",
+			"imagename4": "url4"
+		},
+		"tags": [
+			//"quest",
+			//"fbt",
+			//"adult",
+			//"sergal",
+			//"avatars",
+			//"clothes",
+			//"accessories",
+			//"services"
+		]
+	},
+
+	"creatorid": { // Creators
+		"name": "",
+		"description": "",
+		"links": {
+			"platform1" : "url1",
+			"platform2" : "url2"
+		},
+		"tags": [
+			"",
+			""
+		]
+	},
+
+	"assetid": {
+		"creatorid": "",
+		"name": "",
+		"description": "",
+		"price": "",
+		"images": {
+			"imagename1": "url1",
+			"imagename2": "url2",
+			"imagename3": "url3",
+			"imagename4": "url4"
+		},
+		"tags": [
+			"",
+			""
+		]
+	}
+}

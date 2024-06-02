@@ -3,15 +3,15 @@
 		"creatorid": "ZealotDKD",
 		"storeName": "ZealotDKD",
 		"assets": {
-			"name1": "url1",
-			"name2": "url2"
+			"name1": "imagename1",
+			"name2": "imagename2"
 		},
-		"images": [
-			"url1",
-			"url2",
-			"url3",
-			"url4"
-		],
+		"images": {
+			"imagename1": "url1",
+			"imagename2": "url2",
+			"imagename3": "url3",
+			"imagename4": "url4"
+		},
 		"tags": [
 			"quest",
 			"fbt",
