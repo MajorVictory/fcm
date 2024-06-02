@@ -1,0 +1,26 @@
+{
+	"storeid": {
+		"creatorid": "ZealotDKD",
+		"storeName": "ZealotDKD",
+		"assets": {
+			"name1": "url1",
+			"name2": "url2",
+		},
+		"images": [
+			"url1",
+			"url2",
+			"url3",
+			"url4"
+		],
+		"tags": [
+			"quest",
+			"fbt",
+			"adult",
+			"a",
+			"cb4506",
+			"halloween",
+			"is a cool dude",
+			"sergal"
+		],
+	},
+}
