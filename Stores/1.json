@@ -4,7 +4,7 @@
 		"storeName": "ZealotDKD",
 		"assets": {
 			"name1": "url1",
-			"name2": "url2",
+			"name2": "url2"
 		},
 		"images": [
 			"url1",
@@ -21,6 +21,6 @@
 			"halloween",
 			"is a cool dude",
 			"sergal"
-		],
-	},
+		]
+	}
 }
