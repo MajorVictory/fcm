@@ -31,7 +31,7 @@
 				"wide": "1", 
 				"deep": "10", //(int) meters: 0-12
 				"closed": "0"
-			},
+			}
 		},
 		"store_0002": {
 			"creatorid": "MajorVictory",
