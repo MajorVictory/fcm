@@ -3,10 +3,10 @@
 		"store_0001": {
 			"creatorid": "Zealot",
 			"storeName": "ZealotDKD",
-			"assets": {
-				"name1": "imagename1",
-				"name2": "imagename2"
-			},
+			"assets": [
+				"testasset_01",
+				"testasset_02"
+			],
 			"images": {
 				"imagename1": "url1",
 				"imagename2": "url2",
@@ -22,7 +22,16 @@
 				"halloween",
 				"is a cool dude",
 				"sergal"
-			]
+			],
+			"options": {
+				"top": "1",
+				"wall": "2",
+				"floor": "3",
+				"signs": "2",
+				"wide": "1", 
+				"deep": "10", //(int) meters: 0-12
+				"closed": "0"
+			},
 		},
 		"store_0002": {
 			"creatorid": "MajorVictory",
@@ -48,5 +57,57 @@
 				"sergal"
 			]
 		}
+	},
+	"creators": {
+		"Zealot": {
+			"name": "Zealot",
+			"description": "ZealotDKD",
+			"links": {
+				"platform1" : "url1",
+				"platform2" : "url2"
+			},
+			"tags": [
+				"",
+				""
+			]
+		},
+		"MajorVictory": {
+			"name": "MajorVictory",
+			"description": "VR Creator's Society",
+			"links": {
+				"platform1" : "url1",
+				"platform2" : "url2"
+			},
+			"tags": [
+				"",
+				""
+			]
+		}
+	},
+	"assets": {
+		"testasset_01": {
+			"creatorid": "Zealot",
+			"name": "Test Asset 01",
+			"description": "Test Asset 01 Description",
+			"price": "$12.99",
+			"image": "",
+			"nsfw": "0",
+			"tags": [
+				"",
+				""
+			]
+		},
+		"testasset_02": {
+			"creatorid": "Zealot",
+			"name": "Test Asset 02",
+			"description": "Test Asset 02 Description",
+			"price": "$12.99",
+			"image": "",
+			"nsfw": "0",
+			"tags": [
+				"",
+				""
+			]
+		},
 	}
 }
