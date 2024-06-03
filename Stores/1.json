@@ -8,20 +8,10 @@
 				"testasset_02"
 			],
 			"images": {
-				"imagename1": "url1",
-				"imagename2": "url2",
-				"imagename3": "url3",
-				"imagename4": "url4"
+				"imagename1": "url1"
 			},
 			"tags": [
-				"quest",
-				"fbt",
-				"adult",
-				"a",
-				"cb4506",
-				"halloween",
-				"is a cool dude",
-				"sergal"
+				"is a cool dude"
 			],
 			"options": {
 				"top": "1",
@@ -46,16 +36,16 @@
 				"imagename3": "url3",
 				"imagename4": "url4"
 			},
-			"tags": [
-				"quest",
-				"fbt",
-				"adult",
-				"a",
-				"cb4506",
-				"halloween",
-				"is a cool dude",
-				"sergal"
-			]
+			"tags": [],
+			"options": {
+				"top": "1",
+				"wall": "2",
+				"floor": "3",
+				"signs": "2",
+				"wide": "1", 
+				"deep": "10",
+				"closed": "0"
+			}
 		}
 	},
 	"creators": {
