@@ -2,7 +2,7 @@
 	"stores": {
 		"store_0001": {
 			"creatorid": "Zealot",
-			"storeName": "ZealotDKD",
+			"name": "ZealotDKD",
 			"assets": [
 				"testasset_01",
 				"testasset_02"
@@ -25,7 +25,7 @@
 		},
 		"store_0002": {
 			"creatorid": "MajorVictory",
-			"storeName": "VR Creator's Society",
+			"name": "VR Creator's Society",
 			"assets": {
 				"name1": "imagename1",
 				"name2": "imagename2"
